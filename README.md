@@ -1,6 +1,6 @@
 # simple-vue-app
 
-## What is the use of this Repo
+## What is the use of this Repo [![Generic badge](https://img.shields.io/badge/What-VueJS-blue.svg)](https://vuejs.org/v2/guide/)
 
 This Repo demonstrates the use of the following in vuejs
 1. Vue Routing
@@ -15,11 +15,11 @@ The Application is deployed in
 
 ## Prerequisites
 
-### Install NodeJS
+### Install NodeJS [![Generic badge](https://img.shields.io/badge/Prerequisite-NodeJS-blue.svg)](https://nodejs.org/en/)
 
 Refer https://nodejs.org/en/ to install NodeJS
 
-### Install Vue Cli
+### Install Vue Cli [![Generic badge](https://img.shields.io/badge/Prerequisite-VueCli-blue.svg)](https://cli.vuejs.org/guide/)
 
 Install Vue Cli Node Package Globally using the following Command.
 
@@ -50,7 +50,7 @@ The Application runs on **localhost:8080**
 
 **Display** : Display component displays the name of the selected customer in **Customers** View. **Display** is a child component of **Customers** View
 
-### Http Library
+### Http Library [![Generic badge](https://img.shields.io/badge/http-axios-blue.svg)](https://www.npmjs.com/package/axios)
 
 **axios** library is used to make http calls
 
