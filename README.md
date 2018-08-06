@@ -8,7 +8,7 @@ This Repo demonstrates the use of the following in vuejs
 3. Communication between Components ( Parent to child component )
 4. Axios Library to make HTTP calls
 
-## Application Live URL
+## Application Live URL [![Generic badge](https://img.shields.io/badge/Deployed-Success-green.svg)](https://shields.io/)
 
 The Application is deployed in
 ### https://aditya-sridhar.github.io/simple-vuejs-app/
@@ -71,3 +71,5 @@ The Application has 2 endpoints
 **axios** : https://www.npmjs.com/package/axios
 
 **vue bootstrap** : https://bootstrap-vue.js.org/docs
+
+**vue router** : https://router.vuejs.org/guide/
